@@ -73,7 +73,7 @@
             // Conectar ao banco de dados (substitua as informações conforme necessário)
             $servername = "localhost";
             $username = "root";
-            $password = "JCUi1xM@";
+            $password = "sua-senha";
             $dbname = "videoconferencia_app";
 
             $conn = new mysqli($servername, $username, $password, $dbname);
