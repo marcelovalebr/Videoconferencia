@@ -14,13 +14,13 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 ## Configuração do Banco de Dados
 
 1. Crie um banco de dados MySQL chamado `videoconferencia_app`.
-2. Importe o arquivo `database.sql` no seu banco de dados para criar a tabela necessária.
+2. Importe o arquivo `videoconferencia_app.sql` no seu banco de dados para criar a tabela necessária.
 
 ## Configuração do Projeto
 
 1. Clone o repositório para o seu ambiente local.
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/marcelodovalebr/videoconferencia.git
 
 
 
@@ -28,14 +28,13 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 **Uso**
 
 Execute o servidor web no diretório do projeto.
-Abra o navegador e acesse http://localhost/seu-diretorio.
+Abra o navegador e acesse http://localhost/videoconferencia.
 
 **Recursos**
 
 Cadastro de novas videoconferências.
 Visualização das videoconferências agendadas.
 Edição e exclusão de videoconferências.
-Lembrete automático quando faltar uma hora para a videoconferência.
 
 **Contribuições**
 
