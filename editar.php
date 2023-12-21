@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 
 $servername = "localhost";
 $username = "root";
-$password = "JCUi1xM@";
+$password = "sua-senha";
 $dbname = "videoconferencia_app";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
